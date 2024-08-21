@@ -1,0 +1,4 @@
+com\example\RestfulServiceDemo\DAO_Layer\Task.class
+com\example\RestfulServiceDemo\Repository\TaskRepository.class
+com\example\RestfulServiceDemo\RestfulServiceDemoApplication.class
+com\example\RestfulServiceDemo\Controller\TaskController.class
